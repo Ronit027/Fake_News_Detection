@@ -1,5 +1,5 @@
 ## About
-Fake News Classification WebApp using Flask & Python
+Fake News Classification WebApp using Flask & Python. It can detect and predict that the given input text message is real news or fake.
 
 ## Note
 - This project is just for learning purpose, don't think, it can do work in real time, because model was trained on historic & limited data.
